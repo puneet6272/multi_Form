@@ -92,7 +92,7 @@ function App() {
 
                     <button onClick={() => {
                       setPageNumber(1), setInpVaue({
-                        email: "",
+                        email: " ",
                         first_name: "",
                         last_name: "",
                         occupation: "",
